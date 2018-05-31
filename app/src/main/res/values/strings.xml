@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Fourth_Grade_Vocabulary_Quiz</string>
+    <string name="name_of_the_test">Forth grade vocabulary test</string>
+    <string name="introduction">How good is your vocabulary, 4th grader? Take a quick quiz! \nOnly 9 question and you all done!</string>
+    <string name="question_1">replace this phrase with a singe word:\n \nUNEXPECTEDLY SUDDEN</string>
+    <string name="answer1_1">destructive</string>
+    <string name="answer1_2">abrupt</string>
+    <string name="answer1_3">famished</string>
+    <string name="answer1_4">instant</string>
+
+    <string name="reaction">Correct! Good beginning!</string>
+
+    <string name="question_2">choose the correct explanation of the word:\n \nSHALLOW</string>
+    <string name="answer2_1">very far away in time</string>
+    <string name="answer2_2">with little seriousness or deep thought</string>
+    <string name="answer2_3">friendly; good natured and pleasant</string>
+    <string name="answer2_4">exeptional, unusually good</string>
+
+
+    <string name="question_3">replace this phrase with a singe word:\n \nTO GIVE ANY THOUGHTS TO</string>
+    <string name="answer3_1">to detest</string>
+    <string name="answer3_2">to seize</string>
+    <string name="answer3_3">to desire</string>
+    <string name="answer3_4">to consider</string>
+
+    <string name="question_4">which of the followings might cause \n \nASTONISHMENT?</string>
+    <string name="comment">(There may be more than one correct answer)</string>
+    <string name="answer4_1">a red apple</string>
+    <string name="answer4_2">a talking dog</string>
+    <string name="answer4_3">a flying car</string>
+    <string name="answer4_4">today\'s date</string>
+
+    <string name="reaction4"></string>
+
+    <string name="question_5">which of the followings might be a synonym to word \n \nEAGER?</string>
+    <string name="answer5_1">impose</string>
+    <string name="answer5_2">enthusiastic</string>
+    <string name="answer5_3">anxious</string>
+    <string name="answer5_4">modest</string>
+
+    <string name="reaction5"></string>
+
+    <string name="question_6">which of the followings can correctly complete the sentence?\n \nAN AMIABLE</string>
+    <string name="answer6_1">reply would be, "I will never change my mind."</string>
+    <string name="answer6_2">personality wins you lots of friends.</string>
+    <string name="answer6_3">smile lit up Michael\'s face.</string>
+    <string name="answer6_4">person would tell everyone he is the best.</string>
+
+    <string name="reaction6"></string>
+
+    <string name="question_7">read the following sentence. If the word \n"IMPOSE" \nis used correctly, write C on the line. If the word is used incorrectly, write I on the lane.\n \nThe new coach imposed strict rules about arriving late to the practice.</string>
+    <string name="reaction7"></string>
+
+    <string name="question_8">read the folowing sentence. If the word \n"EXTERIOR" \nis used correctly, write C on the line. If the word is used incorrectly, write I on the lane. \n \nThe exterior of the Earth is made of hot lava.</string>
+    <string name="reaction8"></string>
+
+    <string name="question_9">read the following sentence. If the word \n"EQUIP" \nis used correctly, write C on the line. If the word is used incorrectly, write I on the lane.\n \nSmall parks are equipped around our neighborhood.</string>
+    <string name="reaction9"></string>
+
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="start_a_test">Start a test</string>
+    <string name="next_question">Next Question</string>
+    <string name="get_result">Get result</string>
+    <string name="try_again">Try again</string>
+    <string name="last_question">Last_question</string>
+    <string name="let_s_go">LET\'S GO</string>
+    <string name="submit_my_answer">SUBMIT MY ANSWER</string>
+    <string name="share_your_result_with_friends">Share your result with friends</string>
+    <string name="result1"></string>
+    <string name="please_enter_c_or_i">Please enter C or I</string>
+    <string name="score">0</string>
+    <string name="your_score">Your score:</string>
+    <string name="questions_left">Questions left:</string>
+    <string name="display_questions_left">0</string>
+    <string name="right_answer_reaction">Very good! You\'re right!</string>
+    <string name="wrong_answer_reaction">The correct answer is: \n</string>
+    <string name="good_job_reaction">Good job!</string>
+    <string name="congrats_reaction">Congrats! Good job!</string>
+    <string name="yes">Yes,</string>
+    <string name="it_was_correct">It was a correct sentence...</string>
+    <string name="the_sentence_wasnt_correct">The sentence wasn\'t correct</string>
+
+
+</resources>
